@@ -1,0 +1,6 @@
+name: MSUtils
+main: me.murilin.MSUtils
+version: 1.0.0
+load: STARTUP
+loadbefore:
+  - MSEssentials
